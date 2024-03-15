@@ -1,0 +1,45 @@
+.*{
+	margin: 0;
+}
+
+#u{
+	display: flex;
+	justify-content: space-between;
+	justify-content:space-evenly;
+	background-color: skyblue;
+	height:20px;
+	margin-top: 10px;
+	
+}
+#top-img{
+background-image: url('img.jpg');
+background-size: cover;
+height: 300px;
+text;-align: center;
+}
+
+
+#p{
+	display: flex;
+	justify-content: center;
+}
+#l{
+	text-align: center;
+	color:black;
+}
+#a{
+	text-align: center;
+	margin-top: 10px;
+	font-size: 20pt;
+	color:orange;
+	font-family:verdana;
+}
+#n{
+	background-color: black;
+}
+#f{
+	display:flex;
+	justify-content:evenly;
+	align-items: center;
+	
+}

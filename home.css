@@ -1,0 +1,49 @@
+*{
+  margin: 0px;
+  
+}
+#ar{
+  display: flex;
+  justify-content: space-between;
+}
+.sr{
+  text-decoration: none;
+  color:black;
+  padding:1px;
+  
+}
+#jr{
+  padding-top: 15px;
+  padding-left: 10px;
+}
+header{
+  padding-left: 10px;
+  
+}
+#cr{
+  background-color: orange;
+  border-color: orange;
+  
+}
+#gr{
+  height: 80px;
+  width:80px;
+  background-color:white;
+  box-shadow: 10px 10px 30px;
+}
+#hr{
+  display: flex;
+  justify-content: space-between;
+  padding-right: 60px;
+}
+.st{
+  text-decoration: none;
+  color:black;
+  
+}
+#dr{
+  padding-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
